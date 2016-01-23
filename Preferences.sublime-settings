@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/JavaScriptNext - ES6 Syntax/Monokai Phoenix.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme"
+}
