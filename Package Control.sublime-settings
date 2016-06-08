@@ -13,6 +13,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Syntax Highlighting for Sass",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"TypeScript"
 	]
 }
